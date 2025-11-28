@@ -1,6 +1,1 @@
-hello world
-<<<<<<< HEAD
-welcome to kongu college
-=======
-welcome
->>>>>>> editable
+kongu engineering college
